@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Application</string>
+
+    <string name="name_in_login">Register or Log in</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_here">Login:</string>
+    <string name="password_here">Password:</string>
+    <string name="clients">Clients</string>
+    <string name="contacts">Contacts</string>
+    <string name="add_client_menu_save">Save</string>
+    <string name="client_details_menu_delete">Delete</string>
+    <string name="table_test">create table clients (id integer primary key autoincrement, name text, surname text, phone text, email text);</string>
+    <string name="sql_dao_client_get_clients">select * from clients</string>
+</resources>
